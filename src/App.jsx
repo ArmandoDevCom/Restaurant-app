@@ -1,7 +1,10 @@
-const Saludo = () => {
-    return (
-        <h1>Hola</h1>
-    )
+import Header from "./components/Header"
+import HomePage from "./pages/HomePage"
+
+const App = () => {
+  return (
+    <Header />
+  )
 }
 
-export default Saludo;
+export default App
