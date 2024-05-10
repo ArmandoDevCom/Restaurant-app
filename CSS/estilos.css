@@ -1,0 +1,6 @@
+/* Nav Bar */
+
+.contenedor_navbar {
+    display: flex;
+    justify-content: space-between;
+}
