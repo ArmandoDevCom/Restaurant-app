@@ -1,6 +1,10 @@
 /* Nav Bar */
 
-.contenedor_navbar {
-    display: flex;
-    justify-content: space-between;
+.barra_menu {
+    background-color: rgb(191, 191, 191);
+}
+
+
+.barra_menu img {
+    width: 100px;
 }
