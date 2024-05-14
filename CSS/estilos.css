@@ -1,10 +1,17 @@
 /* Nav Bar */
 
 .barra_menu {
-    background-color: rgb(191, 191, 191);
+    background-color: rgb(232, 228, 0);
 }
 
 
 .barra_menu img {
     width: 100px;
+}
+
+.enlaces_menu {
+    font-size: 20px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
 }
