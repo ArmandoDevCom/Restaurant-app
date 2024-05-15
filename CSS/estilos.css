@@ -15,3 +15,33 @@
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 50px;
 }
+
+/* Menu */
+
+.contenedor_titulo_menu {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/public/img/menu\ entradas.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.titulo_menu {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.menu_platillos {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.menu_platillos :hover {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
