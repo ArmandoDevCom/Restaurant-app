@@ -1,6 +1,12 @@
+import NavBar from "../components/NavBar"
+
 const MenuPage = () => {
   return (
     <>
+    <NavBar />
+    <div>
+      <h1>Pagina de menu</h1>
+    </div>
     <div className="contenedor_titulo_menu">
     <h1 className="titulo_menu">ENTRADAS</h1>
     </div>

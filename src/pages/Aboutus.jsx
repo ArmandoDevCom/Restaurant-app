@@ -1,8 +1,13 @@
-import Header from "../components/Header"
+import NavBar from "../components/NavBar"
 
 const Aboutus = () => {
   return (
-    <Header />
+    <>
+      <NavBar />
+        <div>
+          <h1>Pagina Nosotros</h1>
+        </div>
+    </>
   )
 }
 

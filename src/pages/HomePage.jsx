@@ -1,9 +1,12 @@
-import Header from 'react'
+import NavBar from '../components/NavBar'
 
 const HomePage = () => {
   return (
     <>
-        <Header />
+        <NavBar />
+        <div className='container'>
+          <h1>Pagina Principal</h1>
+        </div>
     </>
   )
 }

@@ -1,13 +1,15 @@
-import Header from "./components/Header"
 import NavBar from "./components/NavBar"
 import HomePage from "./pages/HomePage"
 import MenuPage from "./pages/MenuPage"
+import AppRouter from "./router/AppRouter"
 
 const App = () => {
   return (
     <>
-    <NavBar />
+    <AppRouter />
+   {/*  <NavBar />
     <MenuPage />
+    <HomePage /> */}
     </>
   )
 }
