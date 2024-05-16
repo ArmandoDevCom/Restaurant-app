@@ -13,7 +13,7 @@ const NavBar = () => {
     <div className="collapse navbar-collapse enlaces_menu" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
       <li className="nav-item">
-          <NavLink className="nav-link active" to="/"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>Home</font></font></NavLink>
+          <NavLink className="nav-link" to="/"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>Home</font></font></NavLink>
         </li>
         <li className="nav-item">
           <NavLink className="nav-link" to="/menu"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>Menú</font></font></NavLink>

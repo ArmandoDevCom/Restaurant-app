@@ -39,9 +39,19 @@
 .menu_platillos {
     display: flex;
     justify-content: space-around;
-    margin: 50px;
+    margin: 30px;
 }
 
 .menu_platillos :hover {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tarjeta_platillo h3 {
+    color: rgb(194, 0, 0);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.tarjeta_platillo h4 {
+    font-weight: 800;
 }
