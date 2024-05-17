@@ -1,0 +1,15 @@
+[{
+    "id":"1",
+    "name":"Coctel de frutas",
+    "porcion":"200g",
+    "descripcion":"Fresca combinación de sandía, melón, papaya, piña y manzana con licor marrasquino",
+    "precio":"$65"
+},
+{
+    "id":"2",
+    "name":"Taquitos de pollo",
+    "porcion":"4 pzas",
+    "descripcion":"acompañados de guacamole",
+    "precio":"$80"
+}
+]

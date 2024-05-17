@@ -24,6 +24,7 @@
     background-position: center;
     background-size: cover;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    
 }
 
 .titulo_menu {
@@ -34,6 +35,8 @@
     font-size: 50px;
     font-weight: 700;
     color: white;
+    
+    
 }
 
 .menu_platillos {
@@ -54,4 +57,53 @@
 
 .tarjeta_platillo h4 {
     font-weight: 800;
+}
+
+/* Footer */
+
+.pie_pagina {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.pie_pagina img {
+    width: 100px;
+}
+
+.contenedor_iconos i {
+    color: white;
+    padding-right: 15px;
+}
+
+.contenedor_links_footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    padding: 20px;
+}
+
+.contenedor_links_footer a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Copy */
+
+.my_copy {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.my_copy a {
+    color: white;
+    text-decoration: none;
 }
