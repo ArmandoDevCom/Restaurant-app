@@ -107,3 +107,114 @@
     color: white;
     text-decoration: none;
 }
+
+/* AboutUs Page */
+
+.contenedor_nosotros1 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedor_nosotros1 h1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.contenedor_nosotros1 p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.contenedor_parrafo2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contenedor_parrafo2 img {
+  width: 50%;
+}
+
+.contenedor_parrafo2 p {
+    max-width: 500px;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;   
+}
+
+
+.contenedor_parrafo3 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+    
+}
+
+.contenedor_parrafo3 img {
+    width: 50%;
+}
+
+
+.contenedor_parrafo3 p {
+    max-width: 500px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 30px;
+    padding-top: 30px; 
+}
+
+.contenedor_parrafo3 h3 {
+    text-align: center;
+    font-weight: 900;
+}
+
+.contenedor_parrafo4 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+.contenedor_parrafo4 img {
+    width: 50%;
+}
+
+
+.contenedor_parrafo4 p {
+    max-width: 500px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 30px;
+    padding-top: 30px; 
+}
+
+.contenedor_parrafo4 h3 {
+    text-align: center;
+    font-weight: 900;
+}
+
+.contenedor_vermenu_aboutus {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: red;
+    max-width: 100vw;
+    color: white;
+    margin: auto;
+}
+
