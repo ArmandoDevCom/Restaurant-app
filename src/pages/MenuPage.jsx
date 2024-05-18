@@ -33,7 +33,8 @@ const MenuPage = () => {
         <h1 className="d-none">Pagina de menu</h1>
       </div>
       <div className="contenedor_titulo_menu">
-        <h1 className="titulo_menu">Menú</h1>
+        <h1 className="titulo_menu">Menú
+        </h1>
       </div>
       <button className="btn btn-primary" onClick={obtenerPlatillos}>Obtener platillos</button>
       <div>

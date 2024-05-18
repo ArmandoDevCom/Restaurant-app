@@ -67,7 +67,7 @@ const HomePage = () => {
         <div className='contenedor_reviews'>
           <dt>Así nos califican nuestros clientes</dt>
           <dd>⭐⭐⭐⭐⭐</dd>
-          <div className='reviews_icons'>
+          <div className='reviews_icons iconos_reviews'>
             <img src="https://companieslogo.com/img/orig/TRIP-2af5b8e6.png?t=1678518492" alt="TripAdvisor" />
             <img src="https://static.vecteezy.com/system/resources/previews/016/716/478/original/google-maps-icon-free-png.png" alt="Google Maps" />
             <img src="https://static-00.iconduck.com/assets.00/facebook-color-icon-2048x2048-bfly1vxr.png" alt="Facebook" />

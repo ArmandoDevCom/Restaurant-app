@@ -236,12 +236,57 @@
     text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
 }
 
-
-
 .reviews_icons img {
     height: 50px;
     width: auto;
 }
+
+/* Booking Page */
+
+.contenedor_form {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+.contenedor_form_img {
+    width: 100%;
+    height: 80vh;
+    background-image: url(/public/img/other/mujer-reservacion.png);
+    background-position: center;
+    background-size: cover;
+    
+    
+   
+}
+
+.contenedor_bookingform {
+    width: 100vh;
+    height: auto;
+}
+
+.contenedor_bookingform h1 {
+    text-align: center;
+    padding-top: 100px;
+    font-weight: 900;
+}
+
+/* Booking component */
+
+.formulario_contacto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-weight: 500;
+}
+
 /* AboutUs Page */
 
 .contenedor_nosotros1 {
