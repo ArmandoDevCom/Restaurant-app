@@ -27,7 +27,7 @@ const MenuPage = () => {
             <h2 className="categoria_titulo">{categoria}</h2>
             <div className="categoria_platillos">
               {groupedByCategory[categoria].map((platillo) => (
-                <div key={platillo.id} className="card mb-3 card_platillo" style={{ maxWidth: 540 }}>
+                <div key={platillo.id} className="card mb-3 card_platillo" style={{ maxWidth: 500 }}>
                   <div className="row g-0">
                     <div className="col-md-4">
                       <img src={platillo.imagen} className="img-fluid rounded-start imagen_platillo" alt={platillo.name} />

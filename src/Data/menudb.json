@@ -45,12 +45,120 @@
     "categoria":"Entradas"
 },
 {
-    "id":"5",
-    "imagen": "https://carlsbadcravings.com/wp-content/uploads/2020/10/sopes-v9.jpg",
-    "name":"Sopes",
-    "porcion":"(4 pzas)",
-    "descripcion":"con salsa verde y roja",
-    "precio":"$105",
+    "id":"6",
+    "imagen": "https://es.cravingsjournal.com/wp-content/uploads/2021/07/sopa-de-polloi-4.jpg",
+    "name":"Especial",
+    "porcion":"(454 g)",
+    "descripcion":"fresco pollo deshebrado con arroz blanco, sevida en tazón",
+    "precio":"$85",
     "categoria":"Sopas"
+},
+{
+    "id":"7",
+    "imagen": "https://4.bp.blogspot.com/-DvkkMH4cFuY/VcgP0R_W9fI/AAAAAAAAR-A/w6LKfTUvGFg/s1600/Crema%2Bde%2Bchicharr%25C3%25B3n.jpg",
+    "name":"Crema de chicharrón",
+    "porcion":"(454 g)",
+    "descripcion":"con epazote y chile morita",
+    "precio":"$70",
+    "categoria":"Sopas"
+},
+{
+    "id":"8",
+    "imagen": "https://www.196flavors.com/wp-content/uploads/2018/09/sopa-azteca-2.jpg",
+    "name":"De tortilla",
+    "porcion":"(454 g)",
+    "descripcion":"",
+    "precio":"$90",
+    "categoria":"Sopas"
+},
+{
+    "id":"9",
+    "imagen": "https://i.blogs.es/1f730e/650_1000_sopa-frijol/1366_2000.png",
+    "name":"De frijol negro",
+    "porcion":"(454 g)",
+    "descripcion":"con perfume de epazote y chipotle",
+    "precio":"$65",
+    "categoria":"Sopas"
+},
+{
+    "id":"10",
+    "imagen": "https://mexicanmademeatless.com/wp-content/uploads/2022/09/Mexican-Fideo-Seco-Recipe01.jpg",
+    "name":"Fideo seco",
+    "porcion":"(320 g)",
+    "descripcion":"con salsa de frijol al chipotle",
+    "precio":"$85",
+    "categoria":"Sopas"
+},
+{
+    "id":"11",
+    "imagen": "https://c8.alamy.com/comp/2GN57RF/mexican-tacos-of-cochinita-pibil-mayan-cuisine-from-yucatan-mexico-2GN57RF.jpg",
+    "name":"Tacos de cochinita pibil",
+    "porcion":"(4 pzas)",
+    "descripcion":"con cebolla morada en escabeche, salsa pibil, frijoles refritos, queso y totopos",
+    "precio":"$145",
+    "categoria":"Platillos Mexicanos"
+},
+{
+    "id":"12",
+    "imagen": "https://images.squarespace-cdn.com/content/v1/58eeae76ff7c50fa313c951e/1548911645775-53ZQDQDMDDEVHPN7TKWI/01312019_receta-enchiladas+suizas.jpg",
+    "name":"Enchiladas campesinas",
+    "porcion":"(3 pzas)",
+    "descripcion":"con salsa verde asada, queso y crema",
+    "precio":"$130",
+    "categoria":"Platillos Mexicanos"
+},
+{
+    "id":"13",
+    "imagen": "https://www.mexicoenmicocina.com/wp-content/uploads/2017/10/Pollo-con-salsa-cremosa-de-chiles-poblanos.jpg",
+    "name":"Pechuga a la poblana",
+    "porcion":"(250 g)",
+    "descripcion":"con arroz a la mexicana",
+    "precio":"$195",
+    "categoria":"Platillos Mexicanos"
+},
+{
+    "id":"14",
+    "imagen": "https://www.mexicoenmicocina.com/wp-content/uploads/2022/03/cropped-Filetes-de-pescado-%E2%80%93tilapia-al-ajo-o-ajillo-1.jpg",
+    "name":"Filete de pescado arriero",
+    "porcion":"(200 g)",
+    "descripcion":"con soya, cebolla, cilantro, limón y chile picado",
+    "precio":"$190",
+    "categoria":"Platillos Mexicanos"
+},
+{
+    "id":"15",
+    "imagen": "https://www.maricruzavalos.com/wp-content/uploads/2020/01/pozole-rojo-de-puerco.jpg",
+    "name":"Pozole rojo estilo Jalsciense",
+    "porcion":"(548 g)",
+    "descripcion":"con maciza de cerdo y cabeza",
+    "precio":"$135",
+    "categoria":"Platillos Mexicanos"
+},
+{
+    "id":"16",
+    "imagen": "https://vivian.mx/dupursoo/2019/08/CHEESECAKE-FRESA-rebanadas-006-scaled.jpg",
+    "name":"Pastel de queso con fresas",
+    "porcion":"(1 porción)",
+    "descripcion":"",
+    "precio":"$85",
+    "categoria":"Postres"
+},
+{
+    "id":"17",
+    "imagen": "https://mexiconewsdaily.com/wp-content/uploads/2020/11/TropTable_ArrozConLeche3-vertical.jpg",
+    "name":"Arroz con leche",
+    "porcion":"(180 g)",
+    "descripcion":"",
+    "precio":"$40",
+    "categoria":"Postres"
+},
+{
+    "id":"18",
+    "imagen": "https://icecreamtohui.com/cdn/shop/products/DSC06620_1024x1024@2x.jpg?v=1615960088",
+    "name":"Tres Marías",
+    "porcion":"(330 g)",
+    "descripcion":"Helados de fresa, chocolate y vainilla, bañados con jarabes de los mismos sabores, crema batida, fresas y trocitos de nuez",
+    "precio":"$85",
+    "categoria":"Postres"
 }
 ]
