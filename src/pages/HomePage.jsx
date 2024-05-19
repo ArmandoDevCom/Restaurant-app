@@ -73,6 +73,19 @@ const HomePage = () => {
             <img src="https://static-00.iconduck.com/assets.00/facebook-color-icon-2048x2048-bfly1vxr.png" alt="Facebook" />
           </div>
         </div>
+        <div className='contenedor_contacto'>
+          <div>
+            <img src="/public/img/other/mujer-reservacion.png" alt="mujer contactando" />
+          </div>
+          <div className='contacto_datos'>
+            <h3>Contáctanos</h3>
+            <p>Si tienes dudas o aclaraciones puedes contactarnos por los siguientes medios</p>
+            <h4>Tlalpan Centro</h4>
+            <h4>Ciudad de México 14000</h4>
+            <i class="bi bi-envelope-at-fill"> contacto@antojitosmexicanos.mx</i>
+            <i class="bi bi-telephone-fill"> 5555555555</i>
+          </div>
+        </div>
     </>
   )
 }
