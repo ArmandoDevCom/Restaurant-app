@@ -1,15 +1,56 @@
-[{
+[
+{
     "id":"1",
+    "imagen": "https://i.pinimg.com/564x/e9/f3/b1/e9f3b1e989f31f5738d6dfdbee3c91e0.jpg",
     "name":"Coctel de frutas",
-    "porcion":"200g",
+    "porcion":"(200g)",
     "descripcion":"Fresca combinación de sandía, melón, papaya, piña y manzana con licor marrasquino",
-    "precio":"$65"
+    "precio":"$65",
+    "categoria":"Entradas"
 },
 {
     "id":"2",
+    "imagen": "https://www.maricruzavalos.com/wp-content/uploads/2020/07/rolled_taquitos_dorados_with_chicken.jpg",
     "name":"Taquitos de pollo",
-    "porcion":"4 pzas",
-    "descripcion":"acompañados de guacamole",
-    "precio":"$80"
+    "porcion":"(4 pzas)",
+    "descripcion":"con salsa noche y queso cotija",
+    "precio":"$80",
+    "categoria":"Entradas"
+},
+{
+    "id":"3",
+    "imagen": "https://minimalistbaker.com/wp-content/uploads/2016/01/10-minute-CRAZY-delicious-Greek-inspired-GUACAMOLE-with-sun-dried-and-fresh-tomato-red-onion-lemon-juice-and-oregano-A-healthy-nutritious-snack-vegan-plantbased-glutenfree-guacamole-recipe.jpg",
+    "name":"Guacamole",
+    "porcion":"(120 g)",
+    "descripcion":"servidos sobre hoja de lechuga con totopos y queso cotija",
+    "precio":"$60",
+    "categoria":"Entradas"
+},
+{
+    "id":"4",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0_btIHZN5PQtBDCVVHHZereACRPGaZXGXA&usqp=CAU",
+    "name":"Queso fundido con chistorra",
+    "porcion":"(160 g preparado)",
+    "descripcion":"acompañado de tortillas de harina",
+    "precio":"$105",
+    "categoria":"Entradas"
+},
+{
+    "id":"5",
+    "imagen": "https://carlsbadcravings.com/wp-content/uploads/2020/10/sopes-v9.jpg",
+    "name":"Sopes",
+    "porcion":"(4 pzas)",
+    "descripcion":"con salsa verde y roja",
+    "precio":"$105",
+    "categoria":"Entradas"
+},
+{
+    "id":"5",
+    "imagen": "https://carlsbadcravings.com/wp-content/uploads/2020/10/sopes-v9.jpg",
+    "name":"Sopes",
+    "porcion":"(4 pzas)",
+    "descripcion":"con salsa verde y roja",
+    "precio":"$105",
+    "categoria":"Sopas"
 }
 ]

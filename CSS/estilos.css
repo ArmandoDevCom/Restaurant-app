@@ -35,29 +35,51 @@
     font-size: 50px;
     font-weight: 700;
     color: white;
-    
-    
 }
 
 .menu_platillos {
     display: flex;
-    justify-content: space-around;
-    margin: 30px;
+    flex-direction: column;
+    margin:  20px; 
 }
 
-.menu_platillos :hover {
+.menu_platillos h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: bisque;
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card_platillo {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 10px;
 }
 
-.tarjeta_platillo h3 {
-    color: rgb(194, 0, 0);
+.categoria_platillos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.categoria_platillos h4 {
+    color: red;
     font-weight: 700;
-    font-size: 30px;
 }
 
-.tarjeta_platillo h4 {
+.categoria_platillos h5 {
+    font-size: 21px;
     font-weight: 800;
 }
+
+.cuerpo_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
 
 /* Footer */
 
@@ -258,9 +280,6 @@
     background-image: url(/public/img/other/mujer-reservacion.png);
     background-position: center;
     background-size: cover;
-    
-    
-   
 }
 
 .contenedor_bookingform {
@@ -396,4 +415,3 @@
     color: white;
     margin: auto;
 }
-
