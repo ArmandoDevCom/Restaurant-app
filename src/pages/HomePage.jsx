@@ -28,13 +28,13 @@ const HomePage = () => {
           <div id="carouselExample" className="carousel slide">
   <div className="carousel-inner slider_platillos">
     <div className="carousel-item active">
-      <img src="public/img/slider/enchiladas.png" className=" " alt="Enchiladas" />
+      <img src="https://www.recetasnestle.com.mx/sites/default/files/srh_recipes/7ebe8aaf6c0838d80e5c3471f97ad316.jpg" className=" " alt="Enchiladas" />
     </div>
     <div className="carousel-item">
-      <img src="public/img/slider/chile_en_nogada_comida_mexicana.png" className=" " alt="Chile en Nogada" />
+      <img src="https://cdn7.kiwilimon.com/recetaimagen/14881/7199.jpg" className=" " alt="Chile en Nogada" />
     </div>
     <div className="carousel-item">
-      <img src="public/img/slider/pozole.png" className=" " alt="Pozole" />
+      <img src="https://cdn.nutritionstudies.org/wp-content/uploads/2023/10/red-posole-with-mushroom-1024x683.jpg" className=" " alt="Pozole" />
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -56,11 +56,11 @@ const HomePage = () => {
         </div>
         <div className='contenedor_redireccion'>
           <div className='boton_menu' onClick={handleMenuClick}>
-            <img src="/public/img/other/ver-menu.png" className="img-fluid" alt="ver-menu"/>
+            <img src="https://cdn.theforkmanager.com/static/styles/blog_article_header_image/public/wp-blog/El-Tenedor-marketing-para-restaurantes-optimiza-tu-menu.jpg?itok=DbGdHYqf" className="img-fluid" alt="ver-menu"/>
             <h3>Ver Menú</h3>
           </div>
           <div className='boton_reserva' onClick={handleBookingClick}>
-            <img src="/public/img/other/mujer-reservacion.png" className="img-fluid" alt="hacer-reservacion"/>
+            <img src="https://cdn0.psicologia-online.com/es/posts/3/0/1/como_saber_si_le_gustas_a_una_persona_por_whatsapp_5103_600_square.jpg" className="img-fluid" alt="hacer-reservacion"/>
             <h3>Haz una reservación</h3>
           </div>
         </div>
@@ -75,7 +75,7 @@ const HomePage = () => {
         </div>
         <div className='contenedor_contacto'>
           <div>
-            <img src="/public/img/other/mujer-reservacion.png" alt="mujer contactando" />
+            <img src="https://t1.uc.ltmcdn.com/es/posts/7/4/6/como_saber_si_le_gustas_a_una_chica_por_whatsapp_47647_600.jpg" alt="mujer contactando" />
           </div>
           <div className='contacto_datos'>
             <h3>Contáctanos</h3>

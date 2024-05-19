@@ -29,7 +29,7 @@ const BookingPage = () => {
     <>
       <div className="contenedor_form">
         <div className="contenedor_form_img">
-          <img src="/public/img/other/mujer-reservacion2.png" alt="" />
+          <img src="https://fotografias.lasexta.com/clipping/cmsimages01/2023/10/02/E7633736-8F43-46EF-AB0E-169330813188/amigos_104.jpg?crop=837,837,x210,y0&width=1200&height=1200&optimize=low&format=webply" alt="" />
         </div>
         <div className="contenedor_bookingform">
           <h1>Reserva una mesa</h1>
